@@ -1,0 +1,6 @@
+@MuralService_HostAddress = http://localhost:5252
+
+GET {{MuralService_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

@@ -1,0 +1,7 @@
+POST https://localhost:7298/api/auth/login
+Content-Type: application/json
+
+{
+  "email": "test@student.pl",
+  "password": "12345"
+}
